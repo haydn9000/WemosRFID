@@ -4,10 +4,9 @@ RFID reader using Wemos D1 mini v2.2.0
 Pin Layout
 ----------
 
-|           |         | ESP8266       |
-|-----------|---------|---------------|
-|           | MFRC522 | Wemos D1 mini v2.2.0 |
+|           | MFRC522 | Wemos D1 mini v2.2.0 (ESP8266) |
 | Signal    | Pin     | Pin           |
+|-----------|---------|---------------|
 | RST/Reset | RST     | D0            |
 | SPI SS    | SDA(SS) | D8            |
 | SPI MOSI  | MOSI    | D7            |
